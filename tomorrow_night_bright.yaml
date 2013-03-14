@@ -1,0 +1,47 @@
+log-view:
+  nickname-format: '[%n] '
+  scroller-highlight-color: '#d54e53'
+input-text:
+  font-family: 'Menlo'
+  font-size: 16.0
+  background-color: '#000'
+  color: '#eaeaea'
+member-list:
+  font-family: 'Menlo'
+  font-size: 16.0
+  color: '#969896'
+  background-color: '#000'
+  operator:
+    color: '#70c0b1'
+  selected:
+    color: '#969896'
+    background:
+      top-line-color: '#2a2a2a'
+      bottom-line-color: '#2a2a2a'
+      top-color: '#2a2a2a'
+      bottom-color: '#2a2a2a'
+server-tree:
+  font-family: 'Menlo'
+  font-size: 16.0
+  background-color: '#000'
+  highlight:
+    color: '#b9ca4a'
+  newtalk:
+    color: '#70c0b1'
+  unread:
+    color: '#70c0b1'
+  normal:
+    active:
+      color: '#969896'
+    inactive:
+      color: '#424242'
+  selected:
+    active:
+      color: '#969896'
+    inactive:
+      color: '#424242'
+    background:
+      top-line-color: '#2a2a2a'
+      bottom-line-color: '#2a2a2a'
+      top-color: '#2a2a2a'
+      bottom-color: '#2a2a2a'
